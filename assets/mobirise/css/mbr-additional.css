@@ -476,10 +476,11 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #c3b19b!important;
 }
 #header4-1 .mbr-section-title {
   font-family: 'Lato', sans-serif;
+  color: #c3b19b;
 }
 #header5-2 .mbr-section-title {
   color: #c3b19b;
@@ -513,4 +514,8 @@ h6,
 }
 #contacts1-m STRONG {
   color: #c3b19b;
+}
+#social-buttons4-s .mbr-section-title,
+#social-buttons4-s .btn-social {
+  color: #fff;
 }
